@@ -1,0 +1,7 @@
+D:\Koulu\Ohjelmoinnin perusteet\tentti3\KilpailuIT\KilpailuIT\obj\Debug\KilpailuIT.csprojAssemblyReference.cache
+D:\Koulu\Ohjelmoinnin perusteet\tentti3\KilpailuIT\KilpailuIT\obj\Debug\KilpailuIT.csproj.CoreCompileInputs.cache
+D:\Koulu\Ohjelmoinnin perusteet\tentti3\KilpailuIT\KilpailuIT\bin\Debug\KilpailuIT.exe.config
+D:\Koulu\Ohjelmoinnin perusteet\tentti3\KilpailuIT\KilpailuIT\bin\Debug\KilpailuIT.exe
+D:\Koulu\Ohjelmoinnin perusteet\tentti3\KilpailuIT\KilpailuIT\bin\Debug\KilpailuIT.pdb
+D:\Koulu\Ohjelmoinnin perusteet\tentti3\KilpailuIT\KilpailuIT\obj\Debug\KilpailuIT.exe
+D:\Koulu\Ohjelmoinnin perusteet\tentti3\KilpailuIT\KilpailuIT\obj\Debug\KilpailuIT.pdb
